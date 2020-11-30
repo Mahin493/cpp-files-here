@@ -73,7 +73,7 @@ int main(){
 //balance,deposit,withdraw,showmenu;
 
 
-
+//practice it tomorrow. this this from saldina's Channel.
 
 
 
